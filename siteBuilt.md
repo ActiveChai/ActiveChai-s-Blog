@@ -12,6 +12,6 @@ description: 在阿里云 CentOS 7 下利用 Nginx 和 Hexo 搭建个人博客�
 
 ### Test3
 
-```bash
+```HTML
 <span>Waitting......</span>
 ```
