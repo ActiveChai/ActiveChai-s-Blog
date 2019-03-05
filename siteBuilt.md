@@ -12,7 +12,7 @@ categories:
 
 ## 云服务器
 
-阿里云上的学生服务器有两款，轻量应用服务器和 ECS服务器，价格都是 ￥9.50，我选择的是前者，服务器系统选择了 CentOS 7.3。
+阿里云上的学生服务器有两款，轻量应用服务器和 ECS 服务器，价格都是 ￥9.50，我选择的是前者，服务器系统选择了 CentOS 7.3。
 
 两者明显区别是：
 
@@ -149,7 +149,7 @@ nginx -s reload
 
 ## 主题配置
 
-Next 主题是 Hexo 的一个主题系列，我现在使用的 NexT.Gemini 就是其中之一。
+Next 主题是 Hexo 的一个主题系列，我现在使用的 [NexT.Gemini](https://github.com/iissnan/hexo-theme-next) 就是其中之一。
 
 基本使用配置参考 [Next 官方文档](https://theme-next.iissnan.com/getting-started.html)。
 
